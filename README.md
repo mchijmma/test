@@ -6,6 +6,7 @@
 - Baseline <br />
 <audio controls="controls">
     <source src="audio/a/1/baseline.mp3" type="audio/mp3" />
+</audio>
 
 - Human <br />
 <audio controls="controls">
