@@ -6,22 +6,22 @@
 - Baseline <br />
 <audio controls="controls">
     <source src="audio/a/1/baseline.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
 
 - Human <br />
 <audio controls="controls">
     <source src="audio/a/1/human.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
 
 - AI 1 <br />
 <audio controls="controls">
     <source src="audio/a/1/model_01.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
 
 - AI 2 <br />
 <audio controls="controls">
     <source src="audio/a/1/model_02.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
 
 </div>
 &nbsp;
