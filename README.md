@@ -2,7 +2,7 @@
 
 ### Task a)
 #### Song 1
-<div id="contentBox" style="margin:0px auto; width:10%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 - Baseline <br />
 <audio controls="controls">
     <source src="audio/a/1/baseline.mp3" type="audio/mp3" />
@@ -26,7 +26,7 @@
 &nbsp;
 
 #### Song 2
-<div id="contentBox" style="margin:0px auto; width:10%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 - Baseline <br />
 <audio controls="controls">
     <source src="audio/a/2/baseline.mp3" type="audio/mp3" />
@@ -50,7 +50,7 @@
 &nbsp;
 
 #### Song 3
-<div id="contentBox" style="margin:0px auto; width:10%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 - Baseline <br />
 <audio controls="controls">
     <source src="audio/a/3/baseline.mp3" type="audio/mp3" />
@@ -75,7 +75,7 @@
 
 ### Task b)
 #### b.1
-<div id="contentBox" style="margin:0px auto; width:10%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 - Input <br />
 <audio controls="controls">
     <source src="audio/b/o/input.mp3" type="audio/mp3" />
@@ -105,7 +105,7 @@
 
 ### Task b)
 #### b.2
-<div id="contentBox" style="margin:0px auto; width:10%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 - Input <br />
 <audio controls="controls">
     <source src="audio/b/c/input.mp3" type="audio/mp3" />
