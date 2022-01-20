@@ -1,6 +1,4 @@
-# B-02
-
-### Task a)
+### Automatic Music Mixing 
 #### Song 1
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Baseline <br />
@@ -73,8 +71,8 @@
 </div>
 &nbsp;
 
-### Task b)
-#### b.1
+### Audio effect removal
+#### Distortion
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Input <br />
 <audio controls="controls">
@@ -104,8 +102,7 @@
 </div>
 &nbsp;
 
-### Task b)
-#### b.2
+#### Hard clipping
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Input <br />
 <audio controls="controls">
